@@ -16,10 +16,11 @@
 | 2026-11-21 | The Girls #2 | Fran (posted twice) | fran_comic.mp4 | 17920628682263307, 18111318545261166 |
 | 2026-11-21 | The Girls #3 | Cindy | cindy_comic.mp4 | 18126674363318761 |
 | 2026-11-22 | — | CrossFit formats explainer | formats_comic.mp4 | 17926041051220965 |
-| 2026-11-26 | The Girls #4 | Grace | grace_comic.mp4 | 18652900792065253 |
-| 2026-11-26 | Running #5 | parkrun | parkrun_comic.mp4 | 17879836851650587 |
+| 2026-11-26 | The Girls #4 | Grace (with music) | grace_comic.mp4 | 18103143176537412 (old no-music copy 18652900792065253: owner to delete) |
+| 2026-11-26 | Running #5 | parkrun (with music) | parkrun_comic.mp4 | 18647088676045897 (old no-music copy 17879836851650587: owner to delete) |
 
 ## Backlog ideas (verify every fact before use)
+- Next numbers: The Girls #5, Running Backstories #6
 - The Girls: Diane, Elizabeth, Angie, Barbara, Chelsea, Annie, Karen, Nancy, Jackie, Isabel, Linda, Mary, Kelly
 - Running: NYC Marathon's first race (1970), Abebe Bikila barefoot (Rome 1960), Western States 100 origin, Comrades Marathon, Barkley Marathons, Nike waffle sole (Bowerman), why the track is 400 m, steeplechase origin, Spartathlon, Couch to 5K
 - Other endurance/fitness: Olympic weightlifting clean & jerk origin, Tour de France 1903, Kona, Ultra-Trail du Mont-Blanc
