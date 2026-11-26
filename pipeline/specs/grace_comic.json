@@ -1,0 +1,33 @@
+{
+  "slug": "grace_comic",
+  "video_path": "videos/grace_comic.mp4",
+  "cover_path": "covers/tile_grace.jpg",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "scenes": [
+    {"say": "Thirty reps. One barbell. The best finish it in under two minutes.",
+     "html": "<div class='kicker pop'>THE GIRLS · #4</div><div class='big huge tilt pop'>GRACE</div><div class='chip w pop'>30 REPS. ONE BAR.</div>"},
+    {"say": "June twenty-fourth, two thousand four. CrossFit dot com posts it for the first time.",
+     "caption": "June 24, 2004: CrossFit.com posts it for the first time.",
+     "html": "<div class='big mid white tilt pop'>JUNE 24, 2004</div><div class='card pop'><div class='label'>CROSSFIT.COM · WORKOUT OF THE DAY</div><div class='big small'>GRACE</div></div>"},
+    {"say": "Thirty clean and jerks. For time.",
+     "html": "<div class='chip pop'>30 CLEAN & JERKS</div><div class='chip w pop'>FOR TIME</div>"},
+    {"say": "Men lift one thirty-five. Women, ninety-five pounds.",
+     "caption": "Men: 135 lb. Women: 95 lb.",
+     "html": "<div class='row'><div class='card pop'><div class='label'>MEN</div><div class='big small'>135 LB</div></div><div class='card pop'><div class='label'>WOMEN</div><div class='big small'>95 LB</div></div></div>"},
+    {"say": "No pull-up bar. No running. Just you and the barbell.",
+     "html": "<div class='strike pop'>PULL-UPS</div><div class='strike pop'>RUNNING</div><div class='chip pop'>JUST THE BAR</div>"},
+    {"say": "Most people finish somewhere between four and seven minutes.",
+     "caption": "Most people: 4 to 7 minutes.",
+     "html": "<div class='big huge tilt pop'>4–7</div><div class='label pop'>MINUTES · AVERAGE</div>"},
+    {"say": "The fastest? Under two minutes.",
+     "html": "<div class='label pop'>THE FASTEST</div><div class='big huge tilt pop'>&lt;2:00</div>"},
+    {"say": "That's one rep every four seconds. Thirty times.",
+     "html": "<div class='big huge tilt pop'>4 SEC</div><div class='label pop'>PER REP</div><div class='chip w pop'>× 30</div>"},
+    {"say": "The Girls, number four. What's your Grace time?",
+     "caption": "The Girls #4. What's your Grace time?",
+     "html": "<div class='kicker pop'>THE GIRLS · #4</div><div class='big mid tilt pop'>WHAT'S YOUR GRACE TIME?</div><div class='logo pop'>Bc<i>.</i></div>"}
+  ],
+  "cover": {"kicker": "30 REPS. ONE BAR.", "title": "GRACE", "sub": "THE GIRLS · #4"},
+  "caption": "30 clean and jerks. The best finish in under 2 minutes. ⚡\n\nJune 24, 2004: CrossFit.com programs Grace for the first time. 30 clean and jerks for time, 135/95 lb. No pull-up bar, no running, just you and the barbell. Most people land between 4 and 7 minutes. The fastest go under 2:00, that's a rep every 4 seconds.\n\nThe Girls #4. What's your Grace time? 👇\n\n#crossfit #grace #thegirls #benchmarkwod #wod #cleanandjerk #fitnesshistory #sportshistory #backstoryclub"
+}

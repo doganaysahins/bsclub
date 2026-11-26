@@ -1,0 +1,34 @@
+@font-face{font-family:Bangers;src:url(fonts/Bangers.ttf)}
+@font-face{font-family:Archivo;src:url(fonts/Archivo.ttf)}
+@font-face{font-family:ArchivoNarrow;src:url(fonts/ArchivoNarrow.ttf)}
+@font-face{font-family:DMSerif;src:url(fonts/DMSerifDisplay.ttf)}
+:root{--ink:#1b1b1b;--red:#D7262B;--paper:#FBF5E4;--y1:#F5D67C;--y2:#F1E3C1}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--y1)}
+.scene{position:absolute;inset:0;display:none;background-color:var(--y1);
+ background-image:radial-gradient(rgba(0,0,0,.07) 2.2px,transparent 2.6px);background-size:22px 22px}
+.scene.alt{background-color:var(--y2)}
+.stage{position:absolute;left:60px;right:60px;top:300px;height:900px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:34px;text-align:center}
+.cap{position:absolute;left:130px;right:130px;top:1420px;background:var(--paper);border:5px solid var(--ink);box-shadow:16px 16px 0 var(--ink);
+ font-family:ArchivoNarrow;font-weight:700;font-size:50px;line-height:1.22;color:var(--ink);padding:28px 40px;text-align:center}
+.pop{will-change:transform,opacity}
+.kicker{font-family:Archivo;font-weight:800;font-size:44px;letter-spacing:.14em;color:var(--ink)}
+.big{font-family:Bangers;color:var(--red);-webkit-text-stroke:7px var(--ink);paint-order:stroke fill;text-shadow:10px 10px 0 var(--ink);
+ font-size:250px;line-height:.95;letter-spacing:.02em}
+.huge{font-size:330px}
+.mid{font-size:150px}
+.small{font-size:150px}
+.white{color:#fff}
+.tilt{display:inline-block;transform:rotate(-4deg)}
+.label{font-family:Archivo;font-weight:800;font-size:40px;letter-spacing:.16em;color:var(--ink)}
+.chip{font-family:Bangers;font-size:90px;letter-spacing:.03em;color:#fff;background:var(--red);border:5px solid var(--ink);border-radius:60px;
+ padding:10px 46px 4px;box-shadow:8px 8px 0 var(--ink)}
+.chip.w{background:var(--paper);color:var(--ink)}
+.card{background:var(--paper);border:5px solid var(--ink);box-shadow:14px 14px 0 var(--ink);border-radius:14px;padding:30px 46px 22px;display:flex;flex-direction:column;align-items:center;gap:8px}
+.card .label{color:var(--red);font-size:34px;white-space:nowrap}
+.row{display:flex;gap:40px;align-items:center;justify-content:center}
+.strike{font-family:Bangers;font-size:160px;color:var(--red);-webkit-text-stroke:5px var(--ink);paint-order:stroke fill;text-shadow:6px 6px 0 var(--ink);position:relative}
+.strike::after{content:"";position:absolute;left:-10px;right:-10px;top:48%;height:14px;background:var(--ink);transform:rotate(-3deg)}
+.logo{font-family:DMSerif;font-size:150px;color:var(--ink);letter-spacing:-.02em}
+.logo i{font-style:normal;color:var(--red)}
+.rule{width:140px;height:10px;background:var(--ink)}
