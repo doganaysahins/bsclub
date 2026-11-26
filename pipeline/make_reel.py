@@ -66,7 +66,7 @@ def main(spec_path):
     sys.path.insert(0, HERE); import music
     import zlib
     mixed = os.path.join(work, "mix.wav")
-    print("music:", music.mix(wav, mixed, zlib.crc32(spec["slug"].encode())))
+    print("music:", music.mix(wav, mixed, zlib.crc32(spec["slug"].encode()), spec.get("music_gain", 1.0)))
     wav = mixed
     page = os.path.join(work, "page.html"); build_html(spec, starts, total, page)
     cover = os.path.join(ROOT, spec["cover_path"])

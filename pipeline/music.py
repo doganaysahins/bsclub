@@ -94,7 +94,7 @@ def make_bed(duration, seed):
     out /= np.max(np.abs(out)) + 1e-9
     return out, dict(key=key, bpm=bpm, prog=prog, minor=scale is MINOR)
 
-def mix(voice_path, out_path, seed):
+def mix(voice_path, out_path, seed, music_gain=1.0):
     v, sr = sf.read(voice_path)
     if v.ndim > 1: v = v.mean(1)
     if sr != SR:
@@ -109,7 +109,7 @@ def mix(voice_path, out_path, seed):
     sm = np.convolve(speaking, np.ones(int(0.25 * SR)) / int(0.25 * SR), mode="same")
     gain = 0.34 - 0.14 * np.clip(sm, 0, 1)  # music under voice, a bit louder in gaps
     vnorm = v / (np.max(np.abs(v)) + 1e-9) * 0.9
-    m = vnorm + bed * gain
+    m = vnorm + bed * gain * music_gain  # music_gain: optional per-spec trim
     m /= max(1.0, np.max(np.abs(m)) / 0.98)
     sf.write(out_path, m.astype(np.float32), SR)
     return info
