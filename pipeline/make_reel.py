@@ -62,6 +62,12 @@ def main(spec_path):
     spec = json.load(open(spec_path))
     work = tempfile.mkdtemp(prefix="reel_")
     wav, starts, total = tts(spec["scenes"], spec.get("voice", "am_michael"), spec.get("speed", 1.05), work)
+    # background melody: unique per reel (seeded by slug), ducked under the voice
+    sys.path.insert(0, HERE); import music
+    import zlib
+    mixed = os.path.join(work, "mix.wav")
+    print("music:", music.mix(wav, mixed, zlib.crc32(spec["slug"].encode())))
+    wav = mixed
     page = os.path.join(work, "page.html"); build_html(spec, starts, total, page)
     cover = os.path.join(ROOT, spec["cover_path"])
     json.dump({"starts": starts, "total": total, "cover": cover}, open(os.path.join(work, "tl.json"), "w"))

@@ -26,6 +26,7 @@ Node + playwright and ffmpeg must be available.
 ## Rules (from the owner)
 - English, endurance/fitness niche (running, marathons, triathlon, CrossFit, weightlifting).
 - Each series keeps its starting style: Running Backstories and The Girls are both Comic.
+- Every reel MUST have a background melody under the voiceover (`music.py`, mixed automatically by `make_reel.py`, unique per slug). Never post a reel without it.
 - Every reel has its own voiceover; never reuse another video's audio. Do not use eachlabs.
 - Only verified facts (check with web sources); skip anything uncertain.
 - Cover: big title on plain background, same style as its video.
