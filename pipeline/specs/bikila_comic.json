@@ -1,0 +1,58 @@
+{
+ "slug": "bikila_comic",
+ "video_path": "videos/bikila_comic.mp4",
+ "cover_path": "covers/tile_bikila.jpg",
+ "voice": "am_michael",
+ "speed": 1.1,
+ "scenes": [
+  {
+   "say": "He won the Olympic marathon barefoot. In world-best time.",
+   "html": "<div class='kicker pop'>RUNNING BACKSTORIES · #6</div><div class='big tilt pop' style='font-size:220px'>BAREFOOT</div><div class='chip w pop'>OLYMPIC MARATHON</div>"
+  },
+  {
+   "say": "Rome, nineteen sixty. A race that finishes in the dark, lit by soldiers' torches.",
+   "caption": "Rome, 1960. A race that finishes in the dark, lit by soldiers' torches.",
+   "html": "<div class='big mid white tilt pop'>ROME 1960</div><div class='row'><div class='chip pop'>NIGHT FINISH</div><div class='chip w pop'>TORCHLIT</div></div>"
+  },
+  {
+   "say": "Abebe Bikila. An Imperial Bodyguard soldier, added to Ethiopia's team at the last minute.",
+   "html": "<div class='label pop'>THE RUNNER</div><div class='big mid tilt pop'>ABEBE BIKILA</div><div class='chip w pop'>LAST-MINUTE ADD</div>"
+  },
+  {
+   "say": "The shoes he tried didn't fit right. So he ran like he trained. Barefoot.",
+   "html": "<div class='strike pop'>SHOES</div><div class='big tilt pop' style='font-size:200px'>NO SHOES</div><div class='label pop'>JUST LIKE IN TRAINING</div>"
+  },
+  {
+   "say": "Five hundred meters out, he broke away, by the Obelisk of Axum, taken from Ethiopia.",
+   "caption": "500 m out, he broke away, by the Obelisk of Axum, taken from Ethiopia.",
+   "html": "<div class='big huge tilt pop'>500 M</div><div class='label pop'>TO GO</div><div class='chip w pop'>OBELISK OF AXUM</div>"
+  },
+  {
+   "say": "Finish: the Arch of Constantine. Two fifteen sixteen. A world best.",
+   "caption": "Finish: the Arch of Constantine. 2:15:16. A world best.",
+   "html": "<div class='label pop'>ARCH OF CONSTANTINE</div><div class='big mid tilt pop'>2:15:16</div><div class='chip w pop'>WORLD BEST</div>"
+  },
+  {
+   "say": "Why barefoot? So the world would know: Ethiopia wins with determination and heroism.",
+   "caption": "“I wanted the world to know that my country, Ethiopia, has always won with determination and heroism.”",
+   "html": "<div class='card pop'><div class='label'>WHY BAREFOOT?</div><div class='big small'>DETERMINATION & HEROISM</div></div>"
+  },
+  {
+   "say": "Tokyo, four years later. In shoes, forty days after appendix surgery. He won again.",
+   "caption": "Tokyo 1964: in shoes, 40 days after appendix surgery, he won again, in a world-best 2:12:11.",
+   "html": "<div class='big mid white tilt pop'>TOKYO 1964</div><div class='row'><div class='card pop'><div class='label'>AFTER SURGERY</div><div class='big small' style='white-space:nowrap'>40 DAYS</div></div><div class='card pop'><div class='label'>TIME</div><div class='big small'>2:12:11</div></div></div>"
+  },
+  {
+   "say": "Running Backstories, number six. Would you run it barefoot?",
+   "caption": "Running Backstories #6. Would you run it barefoot?",
+   "html": "<div class='kicker pop'>RUNNING BACKSTORIES · #6</div><div class='big mid tilt pop'>WOULD YOU RUN IT BAREFOOT?</div><div class='logo pop'>Bc<i>.</i></div>"
+  }
+ ],
+ "cover": {
+  "kicker": "ROME 1960",
+  "title": "BAREFOOT",
+  "sub": "RUNNING BACKSTORIES · #6",
+  "size": 220
+ },
+ "caption": "He won the Olympic marathon barefoot. And set a world best doing it. 🦶\n\nRome, 1960. Abebe Bikila, a soldier in Ethiopia's Imperial Bodyguard, was a last-minute addition to the team. The shoes he tried didn't fit right, so he ran the way he trained: barefoot. The race started at 5:30 pm and finished in the dark, the course lit by soldiers' torches. With 500 m to go he broke away near the Obelisk of Axum and crossed the line at the Arch of Constantine in 2:15:16, a world best. Four years later in Tokyo, in shoes and 40 days after appendix surgery, he won again in 2:12:11.\n\nRunning Backstories #6. Would you run it barefoot? 👇\n\n#abebebikila #marathon #barefootrunning #olympics #runninghistory #ethiopia #runningcommunity #backstoryclub"
+}
