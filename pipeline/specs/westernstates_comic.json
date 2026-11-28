@@ -1,0 +1,66 @@
+{
+ "slug": "westernstates_comic",
+ "video_path": "videos/westernstates_comic.mp4",
+ "cover_path": "covers/tile_westernstates.jpg",
+ "voice": "am_michael",
+ "speed": 1.1,
+ "scenes": [
+  {
+   "say": "The most famous hundred-mile trail race began as a horse race.",
+   "caption": "The most famous 100-mile trail race began as a horse race.",
+   "html": "<div class='kicker pop'>RUNNING BACKSTORIES · #7</div><div class='big mid tilt pop'>A HORSE RACE</div><div class='chip w pop'>100 MILES</div>"
+  },
+  {
+   "say": "The Tevis Cup. A hundred miles on horseback to Auburn, California, in under a day.",
+   "caption": "The Tevis Cup: 100 miles on horseback to Auburn, California, in under 24 hours.",
+   "html": "<div class='label pop'>THE TEVIS CUP</div><div class='big mid white tilt pop'>ON HORSEBACK</div><div class='row'><div class='chip pop'>100 MILES</div><div class='chip w pop'>&lt; 24 H</div></div>"
+  },
+  {
+   "say": "Gordy Ainsleigh rode it twice.",
+   "caption": "Gordy Ainsleigh rode it in 1971 and 1972.",
+   "html": "<div class='label pop'>THE RIDER</div><div class='big mid tilt pop'>GORDY AINSLEIGH</div><div class='row'><div class='chip pop'>1971</div><div class='chip w pop'>1972</div></div>"
+  },
+  {
+   "say": "Then, in seventy-three, his horse went lame at mile thirty.",
+   "caption": "1973: his horse went lame at mile 30.",
+   "html": "<div class='big mid white tilt pop'>1973</div><div class='big tilt pop' style='font-size:190px'>MILE 30</div><div class='chip w pop'>HORSE LAME</div>"
+  },
+  {
+   "say": "So in seventy-four, he came back with no horse. And ran it.",
+   "caption": "So in 1974 he came back with no horse. And ran it.",
+   "html": "<div class='strike pop'>HORSE</div><div class='big tilt pop' style='font-size:200px'>ON FOOT</div><div class='label pop'>AUGUST 1974</div>"
+  },
+  {
+   "say": "He started ten minutes ahead of the horses.",
+   "caption": "He started 10 minutes ahead of the horses.",
+   "html": "<div class='label pop'>HEAD START</div><div class='big huge tilt pop'>10 MIN</div><div class='chip w pop'>AHEAD OF THE HORSES</div>"
+  },
+  {
+   "say": "Auburn. Twenty-three hours, forty-two minutes. Under the horse limit.",
+   "caption": "Auburn: 23:42. The first on foot under 24 hours.",
+   "html": "<div class='label pop'>AUBURN FINISH</div><div class='big tilt pop' style='font-size:210px'>23:42</div><div class='chip w pop'>UNDER 24 HOURS</div>"
+  },
+  {
+   "say": "In seventy-seven, runners got their own race. Sixteen signed up. One beat the clock.",
+   "caption": "1977: the first official run. 16 signed up. Only 1 beat the 24-hour clock.",
+   "html": "<div class='big mid white tilt pop'>1977</div><div class='row'><div class='card pop'><div class='label'>SIGNED UP</div><div class='big small'>16</div></div><div class='card pop'><div class='label'>UNDER 24 H</div><div class='big small'>1</div></div></div>"
+  },
+  {
+   "say": "Today, it's the Western States one hundred. Entry by lottery. Next draw: December fifth.",
+   "caption": "Today it's the Western States 100. Spots go by lottery. Next draw: December 5.",
+   "html": "<div class='big mid tilt pop'>WESTERN STATES 100</div><div class='chip w pop'>LOTTERY · DEC 5</div>"
+  },
+  {
+   "say": "Running Backstories, number seven. Would you race a horse?",
+   "caption": "Running Backstories #7. Would you race a horse for 100 miles?",
+   "html": "<div class='kicker pop'>RUNNING BACKSTORIES · #7</div><div class='big mid tilt pop'>WOULD YOU RACE A HORSE?</div><div class='logo pop'>Bc<i>.</i></div>"
+  }
+ ],
+ "cover": {
+  "kicker": "WESTERN STATES 100",
+  "title": "NO HORSE",
+  "sub": "RUNNING BACKSTORIES · #7",
+  "size": 200
+ },
+ "caption": "The most famous 100-mile trail race started as a horse race. 🐎\n\nThe Tevis Cup sends riders 100 miles from Squaw Valley to Auburn, California, inside 24 hours. Gordy Ainsleigh rode it in 1971 and 1972, but in 1973 his horse went lame at mile 30. So in August 1974 he came back without a horse, started ten minutes ahead of the riders and ran the whole trail, reaching Auburn in 23:42, the first to do it on foot in under 24 hours. In 1977 it became an official run: 16 signed up and only one finished inside 24 hours. Today it's the Western States 100, so popular that spots go by lottery. The next draw is December 5.\n\nRunning Backstories #7. Would you race a horse for 100 miles? 👇\n\n#westernstates100 #ultramarathon #trailrunning #ultrarunning #100miler #runninghistory #runningcommunity #backstoryclub"
+}
