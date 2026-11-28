@@ -21,9 +21,10 @@
 | 2026-11-26 | The Girls #5 | Diane | diane_comic.mp4 | 17967690129234420 |
 | 2026-11-27 | Running #6 | Abebe Bikila barefoot (Rome 1960) | bikila_comic.mp4 | 17956809999299939 |
 | 2026-11-27 | The Girls #6 | Elizabeth | elizabeth_comic.mp4 | 18186041509428722 |
+| 2026-11-28 | Running #7 | Western States 100 origin (Gordy Ainsleigh, 1974) | westernstates_comic.mp4 | 18041734310844682 |
 
 ## Backlog ideas (verify every fact before use)
-- Next numbers: The Girls #7, Running Backstories #7
+- Next numbers: The Girls #7, Running Backstories #8
 - The Girls: Angie, Barbara, Chelsea, Annie, Karen, Nancy, Jackie, Isabel, Linda, Mary, Kelly
-- Running: NYC Marathon's first race (1970), Western States 100 origin, Comrades Marathon, Barkley Marathons, Nike waffle sole (Bowerman), why the track is 400 m, steeplechase origin, Spartathlon, Couch to 5K
+- Running: NYC Marathon's first race (1970), Comrades Marathon, Barkley Marathons, Nike waffle sole (Bowerman), why the track is 400 m, steeplechase origin, Spartathlon, Couch to 5K
 - Other endurance/fitness: Olympic weightlifting clean & jerk origin, Tour de France 1903, Kona, Ultra-Trail du Mont-Blanc
